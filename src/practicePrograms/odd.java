@@ -17,7 +17,7 @@ public class odd {
 			} else {
 				System.out.println(n + " is a odd number");
 
-			}
+			} //Test
 		}
 		
 		System.out.println("user not allowed");
